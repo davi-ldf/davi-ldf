@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Programação Back-end [Python]<br>🤝 Busco Estágio Junior
+🔭 Estudante de Programação Back-end [Python]<br>🤝 Busco Estágio
 
 
 ## 🌐 Socials:
