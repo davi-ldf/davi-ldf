@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudante de Programação Web [JavaScript, HTML, CSS, Python]<br>🤝 Busco Estágio
+🔭 Estudante de Programação Web [JavaScript, HTML, CSS, Python]<br>🤝 
 
 
 ## 🌐 Socials:
