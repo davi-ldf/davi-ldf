@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=davi-ldf&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davi-ldf&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-ldf&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=davi-ldf&icon=0&color=10)](https://visitcount.itsvg.in)
