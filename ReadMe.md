@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Web Developer PHP | Laravel | MySQL | JS | Python<br>🌟 Open to work
+🔭 Web Developer NodeJS | PHP | MySQL | JS  <br>🌟 Open to work
 
 
 ## 🌐 Socials:
